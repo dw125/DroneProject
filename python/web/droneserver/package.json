@@ -1,0 +1,15 @@
+{
+  "name": "droneserver",
+  "version": "1.0.0",
+  "description": "Drone Server for ELEC5552 project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ELEC5552 2024 Team 9",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
